@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">keuyboard samples</string>
+    <string name="shaw">Show\n</string>
+    <string name="message">Enter a phone namber\n</string>
+    <string name="phone_number">phone Number\n</string>
+    <string name="nothing_entreted">nothing enteard\n</string>
+    <string name="onnothingselected">"nothing selected: "</string>
+    <string name="tap_text">tap to testthe alert</string>
+    <string name="alert">Alert</string>
+    <string name="alert_title">Alert Test\n</string>
+    <string name="alert_message">Click OK to contnue or Cancel to stop\n</string>
+    <string name="press_ok">Pressed OK</string>
+    <string name="cancel">Pressed Cancel\n</string>
+    <string name="alertsample">AlertSample</string>
+    <string name="choose_datetime">\"Choose the date and time:</string>
+    <string name="date_button">"date "</string>
+    <string name="time_button">time\n</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">Page Time\n</string>
+    <string name="time"></string>
+</resources>
